@@ -40,6 +40,7 @@ public class Main {
         
         return -1;
     }
+    
     public static void main(String[] args) {
         // This array is sorted lexicographically
         String arr[] = new String[]{"for", "","","","","geeks","","","","","","iron","","","","","zooms"};
